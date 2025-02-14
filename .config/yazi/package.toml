@@ -1,0 +1,9 @@
+[[plugin.deps]]
+use = "yazi-rs/plugins:mount"
+rev = "8945e54"
+hash = "f3ade4dba8fb56b85e8363b66f677f9"
+
+[[flavor.deps]]
+use = "dangooddd/kanagawa"
+rev = "d98f0c3"
+hash = "cada780385f75abbcfbf5343256b441"
