@@ -342,7 +342,7 @@ function random_bars() {
 #######################################################
 # ZSH Syntax highlighting
 #######################################################
-source ~/.config/zsh/zsh-syntax-highlightin-tokyonight.zsh
+source ~/.config/zsh/zsh-syntax-highlightin.zsh
 
 #######################################################
 # Shell integrations
@@ -357,3 +357,5 @@ source <(fzf --zsh)
 
 # Tmuxifier config for zsh plugins  
 # eval "$(tmuxifier init -)"
+
+export SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass
