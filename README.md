@@ -43,7 +43,6 @@ stow lazygit
 stow nvim
 stow yazi
 stow zsh
-```--adopt <package>  # Take ownership of existing files
 ```
 
 ### 5. Reload the Shell
